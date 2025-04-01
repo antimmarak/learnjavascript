@@ -8,12 +8,11 @@ console.log(3
 
     console.log("Antim")
 
-
+    
 let name = "Antim"
 let age = 20
 let isloggedIn = false
 let state;
-
 
 // number => 2 to Power 53
 // bigint
@@ -23,10 +22,7 @@ let state;
 // undefined =>
 // symbol => Unique
 
-
-
 // object 
-
 
 console.log (typeof undefined); //undefined
 console.log (typeof null); //object
